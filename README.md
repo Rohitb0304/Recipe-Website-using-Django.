@@ -1,5 +1,3 @@
-Sure, here is the README file with all the necessary steps for setting up and running the Django project. You can copy this directly and use it for your GitHub repository.
-
 ```markdown
 # Django Project Setup
 

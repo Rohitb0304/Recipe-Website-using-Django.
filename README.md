@@ -164,5 +164,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
-
-This format organizes each section clearly with headings and appropriate Markdown syntax, making it easier to follow and copy-paste into your `README.md` file.

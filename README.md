@@ -1,4 +1,3 @@
-```markdown
 # Django Project Setup
 
 This repository contains the code for a Django project named `core` with an app named `vege`. Follow the instructions below to set up the project on your local machine.
@@ -164,4 +163,3 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```

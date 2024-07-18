@@ -1,7 +1,8 @@
 ```markdown
 # Django Project Setup
 
-This repository contains the code for a Django project named `core` with an app named `vege`. Follow the instructions below to set up the project on your local machine.
+This repository contains the code for a Django project named `core` with an app named `vege`.
+Follow the instructions below to set up the project on your local machine.
 
 ## Prerequisites
 

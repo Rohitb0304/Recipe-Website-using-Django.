@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block starts %}
+<div class="container mt-5 text-center">
+    <h1 class="display-4">Welcome to the Recipe Page</h1>
+    <p class="lead">Discover, share, and create amazing recipes with our community. Please log in or sign up to view all the recipes.</p>
+    
+    <!-- <div class="mt-4">
+        <a href="/contact/" class="btn btn-primary mx-2">Contact</a>
+        <a href="/about" class="btn btn-secondary mx-2">About</a>
+    </div> -->
+    
+    <div class="mt-5">
+        <h2 class="h4">You can view all the recipes once you log in. Please log in or sign up.</h2>
+        <a href="/login/" class="btn btn-success mx-2">Login</a>
+        <a href="/register/" class="btn btn-warning mx-2">Sign Up</a>
+    </div>
+</div>
+{% endblock %}
